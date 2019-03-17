@@ -1,4 +1,4 @@
-Motion and Color Tracker using OpenCV. 
+## Motion and Color Tracking using OpenCV. 
 
 OpenCV is a great and simple tool to use for image processing! In order to run this code you need to have OpenCV installed
 on your machine, and in the python directory. 
@@ -14,6 +14,6 @@ Motion tracking in action, capturing my facial movements!
 
 
 
-Color Tracking in action, Its find the plants behind me, as well as my eyeballs....
+Color Tracking in action, It finds the plants behind me, as well as my eyeballs....
 
 <img width="894" alt="Screen Shot 2019-03-17 at 12 54 56 PM" src="https://user-images.githubusercontent.com/35508425/54496357-f51a5400-48b3-11e9-9cfc-55103dc44c3f.png">
