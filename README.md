@@ -10,4 +10,4 @@ Part 2 is motion tracking. Motion tracking is a very simple set of methods that 
 
 
 Motion tracking in action, capturing my facial movements! 
-<src="https://user-images.githubusercontent.com/35508425/54496084-a8814980-48b0-11e9-86a2-63030115356d.png">
+<img width="799" alt="Screen Shot 2019-03-17 at 12 30 18 PM" src="https://user-images.githubusercontent.com/35508425/54496084-a8814980-48b0-11e9-86a2-63030115356d.png">
